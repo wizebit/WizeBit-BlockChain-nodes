@@ -1,2 +1,2 @@
-# wizeWallet 1.1
+# wizeWallet 1.2
 
