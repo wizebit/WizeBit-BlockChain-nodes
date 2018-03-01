@@ -1,2 +1,2 @@
-# LUNA
-AI, Blockchain, IoT, Wize Protocol
+# wizeWallet 1.1
+
