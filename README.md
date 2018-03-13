@@ -1,4 +1,4 @@
-# wizeWallet
+# wize node sharding blockchain
 
 The main purpose of the WizeBit network is to enable users to safely store files, which implies absolute reliability, anonymity and fault tolerance. In order to achieve that the following conceptual technologies were implemented:
 - RSA encryption: provides identification of entities as well as cryptographic protection of communication between network members;
